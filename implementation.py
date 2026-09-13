@@ -1,6 +1,5 @@
 from __future__ import annotations
 from random import shuffle
-from a1_pyta_config import pyta_config, python_ta, check_contracts
 
 
 # Each raccoon moves every this many turns
