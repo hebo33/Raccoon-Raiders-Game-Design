@@ -5,8 +5,6 @@ from random import random, shuffle
 
 import pygame
 
-from a1_pyta_config import python_ta
-
 # Turn off check contracts to prevent the UI from being too slow to use.
 # This MUST run before we import our classes.
 python_ta.contracts.ENABLE_CONTRACT_CHECKING = False
